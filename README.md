@@ -9,3 +9,11 @@
 </p>
 </details>
 
+<details><summary>Range Queries</summary>
+  <p>
+    
+[Static Range Minimum Queries](https://cses.fi/problemset/task/1647/) - [solution by ar_rony1](https://cses.fi/problemset/result/5204084/)
+
+</p>
+</details>
+
