@@ -14,6 +14,15 @@
     
 [Static Range Minimum Queries](https://cses.fi/problemset/task/1647/) - [solution by ar_rony1](https://cses.fi/paste/486e757d5d10a3dc4f6874/)
 
+[Range Xor Queries](https://cses.fi/problemset/task/1650) - [solution by ar_rony1](https://cses.fi/paste/6eaed65683ac330d5d4a88/)
+
+[Hotel Queries](https://cses.fi/problemset/task/1143) - [solution by ar_rony1](https://cses.fi/paste/097c6f6f4f65b05660ed3e/)
+
+[List Removals](https://cses.fi/problemset/task/1749) - [solution by ar_rony1](https://cses.fi/paste/d860a70f95f193de60f051/)
+
+
+
+
 </p>
 </details>
 
