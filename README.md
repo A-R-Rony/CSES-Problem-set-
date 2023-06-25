@@ -22,6 +22,8 @@
 
 [Prefix Sum Queries](https://cses.fi/problemset/task/2166) - [solution by ar_rony1](https://cses.fi/paste/334b643029ccb4c760f0d2/)
 
+[Pizzeria Queries](https://cses.fi/problemset/task/2206/) [Solution by ar_rony1](https://cses.fi/paste/3ed2cb27fa8443df60f33b/)
+
 
 
 
