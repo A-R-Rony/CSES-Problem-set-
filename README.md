@@ -20,6 +20,9 @@
 
 [List Removals](https://cses.fi/problemset/task/1749) - [solution by ar_rony1](https://cses.fi/paste/d860a70f95f193de60f051/)
 
+[Prefix Sum Queries](https://cses.fi/problemset/task/2166) - [solution by ar_rony1](https://cses.fi/paste/334b643029ccb4c760f0d2/)
+
+
 
 
 
