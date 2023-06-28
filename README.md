@@ -1,5 +1,13 @@
 # CSES-Problem-set
 
+<details><summary>Tree Algorithms</summary>
+  <p>
+    
+[Tree Matching](https://cses.fi/problemset/task/1130/) - [solution by ar_rony1](https://cses.fi/paste/5063358e3ad179a7614a16/)
+
+</p>
+</details>
+
 <details><summary>Number Theory</summary>
   <p>
     
