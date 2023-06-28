@@ -5,9 +5,9 @@
     
 [Tree Matching](https://cses.fi/problemset/task/1130/) - [solution by ar_rony1](https://cses.fi/paste/5063358e3ad179a7614a16/)
 
-[Tree Distances II](https://cses.fi/problemset/task/1133/) [Solution by ar_rony1](https://cses.fi/paste/53eff2f0f436fb2861505d/)  
+[Tree Distances II](https://cses.fi/problemset/task/1133/) - [Solution by ar_rony1](https://cses.fi/paste/53eff2f0f436fb2861505d/)  
 
-[Tree Distances I](https://cses.fi/problemset/task/1132) [Solution by ar_rony1](https://cses.fi/paste/10b381d157426b8e614e49/)
+[Tree Distances I](https://cses.fi/problemset/task/1132) - [Solution by ar_rony1](https://cses.fi/paste/10b381d157426b8e614e49/)
 
 </p>
 </details>
